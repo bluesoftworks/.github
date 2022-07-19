@@ -1,0 +1,1 @@
+![Old school tech](assets/blue-future.png "The future is #blue")
